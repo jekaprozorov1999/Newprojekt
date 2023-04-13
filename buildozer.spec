@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Mortgage Calculator
+title = jeka
 
 # (str) Package name
-package.name = mortgagecalculator
+package.name = jeka
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
